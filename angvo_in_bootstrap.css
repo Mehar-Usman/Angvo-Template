@@ -1,0 +1,284 @@
+/* Css for Angvo In bootstrap */
+
+body {
+
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+.Turning-Brands-into-Amazon {
+    background-color: #ff5722;
+}
+
+.navbar_toggler_color {
+    background-color: white;
+}
+
+.LETS-GET-STARTED {
+    background-color: #ff5722;
+}
+
+/* START CSS FOR ANGVO CARDS */
+
+.cards-background-img {
+    background-image: url('');
+}
+
+.One-Stop-Shop {
+
+    opacity: 0.7;
+}
+
+.For-Amazon-Sellers {
+    font-size: 60px;
+}
+
+.For-Amazon-Sellers-1 {
+    color: #ff5722;
+}
+
+.Our-Services {
+    opacity: 0.7;
+    font-size: 25px;
+}
+
+.Amazon-Account-UK {
+    border-radius: 10px;
+    background-color: white;
+}
+
+.amazon-account-icon {
+    background-color: #ff5722;
+    border-radius: 100px;
+}
+
+.Amazon-Account-UK:hover {
+    background-color: #ff5722;
+    transition: 0.5s;
+    /* color: white; */
+}
+
+.Amazon-Account-UK:hover p {
+    color: white;
+}
+
+.Amazon-Account-UK:hover i {
+    background-color: white;
+}
+
+.amazon-account-icon {
+    color: white;
+}
+
+.Buy-Now {
+    color: #ff5722;
+}
+
+.Amazon-Account-UK:hover .amazon-account-icon {
+    color: #ff5722;
+}
+
+.View-All-Service {
+    background-color: #0154f7;
+    color: white;
+}
+
+.View-All-Service:hover {
+    background-color: #ff5722;
+    transition: 0.5s;
+}
+
+.Perfect-Solution-Makes {
+    font-size: 40px;
+    color: #8a8a8a;
+}
+
+.A-Successful-History {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.A-Successful-History span {
+    color: #ff5722;
+}
+
+.Something-knows-About {
+    color: #8a8a8a;
+}
+
+.We-want-our-nation {
+    color: #8a8a8a;
+}
+
+.background-img-for-footer {
+    background-image: url('images/Screenshot-angvo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.WhyChoose-Angvo{
+    font-size: 50px;
+    color: white;
+    font-weight: bold ;
+    
+    /* }
+    .icon-1-png {
+        border: dashed;
+        border-color: white;
+        border-radius: 50px;
+    }
+    .icon-2-png {
+        border: dashed;
+        border-color: white;
+        border-radius: 50px;
+    }
+    .dot-3{
+        position: absolute;
+        top: -140px;
+        left: -60px;
+    }
+    .dot-2{
+        position: absolute;
+        right: -70px;
+        top: -160px;
+    }
+    .dot-1{
+        position: absolute;
+        right: -140px;
+        top: 0; */
+
+}
+.Get-A-Quote{
+    color: #8a8a8a;
+}
+.Consultations{
+    color: #ff5722;
+}
+.working2{
+    margin: 28px;
+    padding: 30px;
+    margin-top: -82px;
+    margin-left: 46px;
+}
+
+.working1{
+    padding: 7px;
+    margin: -57px
+}
+.workinglast{
+    padding-top: 110px;
+    color: white;
+}
+.Full-Name-here{
+    background-color: #eef3f9;
+    outline-color: #ff5722;
+    resize: none;
+}
+.field-icon{
+    color: #f86e03;
+    justify-content: end;
+    margin: auto;
+    position: relative;
+    display: flex;
+    top: 37px;
+    right: 10px;
+}
+.Full-Name-here:focus{
+    background-color: white;
+}
+.Send-Message{
+    background-color: #0154f7;
+    height: 50px; 
+    width: 170px;
+}
+.Send-Message:hover{
+    background-color: #f86e03;
+    transition: 0.5s;
+}
+.bg-for-container-fluid{
+    background-color: #dad2d2; 
+}
+.How-We-Works {
+    color: #8a8a8a;
+}
+.How-We-Works {
+    font-family: "Poppins", sans-serif;
+}
+.Customer-Reviews {
+    font-size: 55px;
+    font-weight: bold;
+}
+.Reviews{
+    color: #f86e03;
+    font-weight: lighter;
+}
+.Customer-Say {
+    color: #8a8a8a;
+    font-weight: bold;
+    font-size: 20px;
+}
+.star-icon-for-footer-card{
+    color: #f86e03;
+}
+.Sometimes-we-feel{
+    color: #8a8a8a;
+}
+.quote-icon-for-cards{
+    color: white;
+    background-color: #f86e03;
+    border-radius: 25px;
+}
+.footer-three-icon{
+    background-color: #14346b;
+    border-radius: 5px;
+}
+.footer-three-icon:hover{
+    background-color: #f86e03;
+    transition: 0.5s;
+}
+.We-are-here-to-start{
+    color: #aeb7ca;
+}
+.footer-link{
+    color: #aeb7ca;
+}
+.footer-link:hover{
+    color: #f86e03;
+    transition: 0.3s;
+}
+.Please-subscribe-now{
+    color: #aeb7ca;
+}
+/* .fa-map-marker {
+    background-color: #14346b;
+    border-radius: 50%; font-size: 24px;
+    color: #3e63a4;
+} */
+.Floor-Al-Hafeez{
+    color: #aeb7ca;
+}
+.All-Rights{
+    color: #aeb7ca;
+}
+.fa-map-marker{
+    background-color: #14346b;
+    color: #aeb7ca;
+}
+.fa-map-marker:hover{
+    background-color: #f86e03;
+    transition: 0.7s;
+    color: white;
+}
+
+.background-img-for-about-us{
+    background-image: url('images/service_banner.jpg');   
+    height: 300px; 
+}
+.bg-color-about-us{
+    background-color: #14346b   ;
+    /* margin-bottom: 10px; */
+}
+.Angvo-Services-was-founded{
+    color: #aeb7ca;
+}
